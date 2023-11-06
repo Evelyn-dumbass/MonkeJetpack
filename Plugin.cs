@@ -9,7 +9,7 @@ namespace MonkeJetpack
 {
     [ModdedGamemode]
     [BepInDependency("org.legoandmars.gorillatag.utilla")]
-    [BepInPlugin("com.octoburr.gorillatag.monkejetpack", "MonkeJetpack", "1.0.1")]
+    [BepInPlugin("com.octoburr.gorillatag.monkejetpack", "MonkeJetpack", "1.0.2")]
     public class Plugin : BaseUnityPlugin
     {
         private GameObject jetpack;
