@@ -1,7 +1,8 @@
 ﻿using BepInEx.Configuration;
 using BepInEx;
 using System.IO;
-public static class jetpackConfig
+
+public static class JetpackConfig
 {
     public static ConfigFile ConfigFile { get; private set; }
     public static ConfigEntry<int> Speed;
